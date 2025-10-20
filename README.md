@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/531/office-powerpoint)
+
 # Office-PowerPoint-MCP-Server
 [![smithery badge](https://smithery.ai/badge/@GongRzhe/Office-PowerPoint-MCP-Server)](https://smithery.ai/server/@GongRzhe/Office-PowerPoint-MCP-Server)
 ![](https://badge.mcpx.dev?type=server 'MCP Server')
